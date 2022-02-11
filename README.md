@@ -51,5 +51,3 @@ Here are some ideas to get you started:
   <a href="https://storybook.js.org/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/qa/371510/svg/371510.svg" alt="cypress" width="40" height="40"/> </a>
 
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aaron-s-kim&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
