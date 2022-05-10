@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Medmory](https://github.com/aaron-s-kim/medmory)
 - 🌱 I’m currently learning **Python and Django**
 - 📫 How to reach me **aaron.kim.dev@gmail.com**
-- 📄 My [resume](https://www.canva.com/design/DAE0dvMyNBw/NHSnwLw8lV8wBqjMns_a4g/view?utm_content=DAE0dvMyNBw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 My [resume](https://www.canva.com/design/DAE4i-C1R1o/Li6jfEUk9Ag1Nz-czbXmyQ/view?utm_content=DAE4i-C1R1o&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
 
 <h3 align="left">Connect with me:</h3>
