@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aaron Kim</h1>
+<h1 align="center">Hi, I'm Aaron</h1>
 <h3 align="center">I am a Full Stack Developer who is passionate about developing apps that are efficient, elegant, and intuitive.</h3>
 
 <!--
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me **aaron.kim.dev@gmail.com**
-- 📄 My [resume](https://www.canva.com/design/DAE4i-C1R1o/Li6jfEUk9Ag1Nz-czbXmyQ/view?utm_content=DAE4i-C1R1o&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+- 📄 My [resume](https://www.canva.com/design/DAGhRIZzpbQ/yFfFmCl2g4zDToaa6adJXQ/view)
 
 
 <h3 align="left">Connect with me:</h3>
