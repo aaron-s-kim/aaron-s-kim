@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me **aaron.kim.dev@gmail.com**
-- 📄 My [resume](https://www.canva.com/design/DAGhRIZzpbQ/yFfFmCl2g4zDToaa6adJXQ/view)
 
 
 <h3 align="left">Connect with me:</h3>
