@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Aaron</h1>
 <h3 align="center">I am a Full Stack Developer who is passionate about developing apps that are efficient, elegant, and intuitive.</h3>
 
-- 📫 How to reach me **aaron.kim.dev@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aaron--kim/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="kim-aaron" /></a>
+<a href="mailto:aaron.kim.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
