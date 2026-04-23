@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aaron--kim/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="kim-aaron" /></a>
+<a href="https://www.linkedin.com/in/aaron--kim/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="kim-aaron" /></a>
 <a href="mailto:aaron.kim.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail" /></a>
 </p>
 
